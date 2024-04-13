@@ -7,3 +7,5 @@ dsdsdss
 Добавим текст локально
 
 Add text for new branch
+
+ывывывыв для конфликта
